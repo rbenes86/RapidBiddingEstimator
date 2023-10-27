@@ -1,0 +1,2 @@
+# RapidBiddingEstimator
+Rapid Bidding Estimator
